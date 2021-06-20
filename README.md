@@ -27,6 +27,6 @@ POST http://127.0.0.1:5000/v1/alert
 
 {
     "data":{
-        "team_id": "team497991"
+        "team_id": "team-497991"
     }
 }
