@@ -1,7 +1,9 @@
 # coding
 Teams and Developers App
+
 Create Teams API:
 POST http://127.0.0.1:5000/v1/teams
+
 {
     "data":{
         "team": {
